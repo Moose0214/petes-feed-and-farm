@@ -13,13 +13,15 @@ The stores data is in the variable **store**
 ## Task
 
 1. Review orders of previous months, determine discrepancies
-2. List all categories of products sold in the current month
-3. List gross profit for each product sold in the current month
-4. Display total gross profit for the month
+2. Display total sales price for orders in the current month
+3. List all categories of products, and number of products sold in the current month
+4. List gross profit for each product sold in the current month
+5. Display total gross profit for the month (Gross profit = price sold - cost)
 
 ## Task Format
 
 1. Simply find issue with problematic orders
-2. {Category 1}, {Category 2}, {Category 3}
-3. {Product Name}: ${Amount}
-4. December: ${Total Gross}
+2. December: ${Total Sales}
+3. {Category 1}: {Products in Cat1}, {Category 2}: {Products in Cat2}, {Category 3}: {Products in Cat3}
+4. {Product Name}: ${Amount}
+5. December: ${Total Gross}
